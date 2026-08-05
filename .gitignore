@@ -1,0 +1,18 @@
+# Environment
+.env
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Local vector database
+vectorstore/
+
+# Generated files
+research_report.pdf
+
+# OS files
+.DS_Store
+Thumbs.db
